@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odd{
+	background-color: rgb(254, 167, 167);
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.adjust {
+	font-size: 24px;
+}
+#number2 {
+	color: hsl(240, 100%, 50%);
+	font-size: 32px;
+}
+#fourthelement {
+	color:80ff80;
+	font-size: 24px;
+	font-weight: 700;
+}
